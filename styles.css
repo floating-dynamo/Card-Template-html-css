@@ -3,7 +3,13 @@
   text-align: center;
 }
 body {
-  background-color: #333;
+  background-image: linear-gradient(
+    to top left,
+    #001b2e,
+    #294c60,
+    #8c92ac,
+    #adb6c4
+  );
 }
 .container {
   margin: 5% 7%;
